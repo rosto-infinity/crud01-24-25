@@ -6,8 +6,10 @@
   @vite('resources/css/app.css')
 </head>
 <body>
-  <h1 class="text-3xl font-bold underline">
+  <h1 class="text-3xl text-red-500  font-bold underline">
     Hello world!
+    {{-- composer create-project laravel/laravel=10  crud01-24-25 --}}
   </h1>
 </body>
 </html>
+
